@@ -31,7 +31,6 @@ Before running this script, make sure you have the following installed:
 
 You can install the required Python packages using `pip`:
 
-```bash
 pip install requests colorama
 
 How to Use
@@ -116,10 +115,3 @@ Acknowledgements
     Special thanks to Discord API for making webhooks so powerful and easy to use.
 
 Created by b4for3 | Made with ❤️
-
-
-### Key Adjustments:
-- The project is now referred to as `PEGPX.py`, indicating that it's a single file project.
-- The instructions are simplified to reflect that the code is in one file, and no extra files or folders are involved.
-
-### If you need further customization or anything else, just let me know!
